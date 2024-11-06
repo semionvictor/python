@@ -1,0 +1,9 @@
+mytuple = ("name","emeka","chioma")
+mylist = list(mytuple)
+
+
+# update method comes here or any list method comes here 
+
+mylist.append("chiboy")
+newtuple = tuple(mylist)
+print(newtuple)
