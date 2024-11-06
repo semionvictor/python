@@ -33,5 +33,5 @@
 
 import oop_calculator
 
-calc = oop_calculator.Calculator(2, 4, '+')
-print(calc.add())
+calc = oop_calculator.Calculator(2, 4, '-')
+print(calc.subtract())
