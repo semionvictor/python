@@ -15,4 +15,4 @@ while user_guess != random_number:
     user_guess = int(input())
 
 if user_guess == random_number:
-    print("your guess is correct😊😊")
+    print("you got the correct answer😊😊")
